@@ -19,3 +19,8 @@ pyfiglet
 qrcode
 tracemoepy
 validators
+imutils
+numpy
+opencv-python
+PyPDF2
+scikit-image
